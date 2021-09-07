@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @the-alex-chadwick
+- 👀 I’m interested in cyber security and digital investigations
+- 🌱 I’m currently learning Python, HTML and CSS
+- 📫 How to reach me: alexchadwick208@gmail.com
